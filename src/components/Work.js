@@ -8,7 +8,7 @@ import Gachasphere from './subwork/Gachasphere';
 function Work() {
     return (
         <section aria-label="Portfolio project descriptions" className="container_work" name="work">
-            <h2 className="section_title">Initial sFields of Implementation</h2>
+            <h2 className="section_title">Initial Fields of Implementation</h2>
             <Gachasphere />
             
             {/* <BujoToGo /> */}
