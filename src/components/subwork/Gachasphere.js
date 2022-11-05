@@ -53,7 +53,9 @@ function Gachasphere() {
         <br></br><br></br>
         <span style={{backgroundColor: "black", color: "white", }}>II:</span> {" "} 
        If one of those parties elected in the next election, and kept their word on making observable effort and impact on that cause, then   <span style={{backgroundColor: "pink", color: "black", padding:"2px", fontStyle:"italic"}}> I will <u>definitely vote for them</u> in the following election(s). </span>
+      <h2>.. to be continued with advertising</h2>
       </p>
+
     </div>
   );
 }

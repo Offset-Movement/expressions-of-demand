@@ -10,8 +10,9 @@ function Work() {
         <section aria-label="Portfolio project descriptions" className="container_work" name="work">
             <h2 className="section_title">Fields of Implementation</h2>
             <Gachasphere />
-            <BujoToGo />
-            <ThisSite />
+            
+            {/* <BujoToGo /> */}
+            {/* <ThisSite /> */}
             {/* <Knitworthy /> */}
             {/* <OWS /> */}
         </section>

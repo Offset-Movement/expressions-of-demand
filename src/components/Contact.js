@@ -30,7 +30,7 @@ function Contact() {
     }
 
     return (
-        <h2 style={{color: "white"}}>future.made@offsetmovement.org</h2>
+        <h2 style={{color: "wheat", backgroundColor:"black"}}>future.made@offsetmovement.org</h2>
         // <section aria-label="Contact links and form" className="container_contact">
         //     <h2 className="section_title">Contact</h2>
         //     <div className="subContact">

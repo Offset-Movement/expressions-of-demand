@@ -10,14 +10,14 @@ import React from "react";
 
 function About() {
   return (
-    <section aria-labelledby="about" className="container_about">
-      <h2 id="about" className="section_title">
+    <section aria-labelledby="about" className="container_about" style={{backgroundColor: "orange"}}>
+      <h2 id="about" className="section_title" style={{color: "black"}}>
         Definition:
       </h2>
       <div className="subAbout">
         <p className="about_text" style={{ textAlign: "start" }}>
           An Expression of Demand, in its broadest sense, is an equaliser method
-          for potentials and capacity making via adding constants and observables to any system with hight dependency to predictions.
+          for potentials and capacity making via adding constants and observables to the fields that are (made) highly dependent to predictions.
 
           <br></br><br></br>
            Through enabling future-oriented

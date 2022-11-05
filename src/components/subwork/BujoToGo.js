@@ -8,17 +8,17 @@ function BujoToGo() {
   return (
     <div id="BujoToGo" className="subWork">
       <h3 className="subwork_title--primary">Capacity Planning</h3>
-      <h4 className="subwork_title--secondary">Prosumer-Prosumer Era</h4>
+      {/* <h4 className="subwork_title--secondary">Prosumer-Prosumer Era</h4> */}
       <img
         alt="capacity planning"
         src={headshot}
         className="about_headshot"
       />
       {/* <img className="subwork_image" src={Bujogif} alt="BujoToGo walkthrough"/> */}
-      <p className="subwork_text">
-        asdasda
+      <p className="subwork_text" style={{marginTop: "20px"}}>
+        asdasd
       </p>
-      <span className="subwork_links">
+      {/* <span className="subwork_links">
         <a
           className="link-new-tab"
           href="https://github.com/abbeyperini/BujoToGo"
@@ -32,8 +32,7 @@ function BujoToGo() {
             className="work_icon"
           />
         </a>
-        {/* <a className="link-new-tab" href="http://bujo-to-go.surge.sh/#/index" target="_blank" rel="noreferrer"><Chrome id="BujoToGoChrome" aria-label="open BujoToGo website in a new tab" focusable="true" className="work_icon"/></a> */}
-      </span>
+      </span> */}
     </div>
   );
 }
