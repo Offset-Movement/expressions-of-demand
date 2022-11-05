@@ -46,7 +46,7 @@ function Gachasphere() {
         Because what they wanted in the first place, is progress in an arbitrary cause/policy, or new ones to be given capacity. <br></br><br></br> They expose and clarify their intentions in
         single or multi levels, meaning one or two elections ahead of time, for any specific topic that they wish to see improved. <br></br>  <br></br>This is, hereby, a reflection of an opinionated perspective and worldview.
         <br></br><br></br>
-        As an example, for global trust and peacemaking is
+        As an example, an individual demand, for global trust and peacemaking is
         illustrated below:
         {/* In the first exposition, inclusion of change,
         thereby a token of intention is demanded, and in the second level,
