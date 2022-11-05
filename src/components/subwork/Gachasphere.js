@@ -1,7 +1,7 @@
 import React from "react";
 // import Gachagif from '../../images/gachasphereMobile.gif';
-import { ReactComponent as Chrome } from "../../images/chrome.svg";
-import { ReactComponent as Github } from "../../images/github.svg";
+// import { ReactComponent as Chrome } from "../../images/chrome.svg";
+// import { ReactComponent as Github } from "../../images/github.svg";
 
 function Gachasphere() {
   return (

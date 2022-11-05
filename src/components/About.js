@@ -1,12 +1,12 @@
 import React from "react";
-import { ReactComponent as JSLogo } from "../images/javascript.svg";
-import { ReactComponent as PythonLogo } from "../images/python.svg";
-import { ReactComponent as HTMLLogo } from "../images/html.svg";
-import { ReactComponent as CSSLogo } from "../images/css3.svg";
-import { ReactComponent as NodeLogo } from "../images/node.svg";
-import { ReactComponent as ReactLogo } from "../images/react.svg";
-import { ReactComponent as ReduxLogo } from "../images/redux.svg";
-import { ReactComponent as PostgreSQLLogo } from "../images/postgresql.svg";
+// import { ReactComponent as JSLogo } from "../images/javascript.svg";
+// import { ReactComponent as PythonLogo } from "../images/python.svg";
+// import { ReactComponent as HTMLLogo } from "../images/html.svg";
+// import { ReactComponent as CSSLogo } from "../images/css3.svg";
+// import { ReactComponent as NodeLogo } from "../images/node.svg";
+// import { ReactComponent as ReactLogo } from "../images/react.svg";
+// import { ReactComponent as ReduxLogo } from "../images/redux.svg";
+// import { ReactComponent as PostgreSQLLogo } from "../images/postgresql.svg";
 
 function About() {
   return (

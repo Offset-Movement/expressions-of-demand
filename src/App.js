@@ -3,20 +3,20 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/Header';
 import NavBar from './components/NavBar';
 import Work from './components/Work';
-import Blog from './components/Blog';
+// import Blog from './components/Blog';
 import About from './components/About';
 import Contact from './components/Contact';
 import { CSSTransition } from 'react-transition-group';
 import MainFull from './components/MainFullCSS';
 import Single from './components/SingleCSS';
 import { keepTheme } from './utils/themes';
-import FullBlog from './components/FullBlog';
+// import FullBlog from './components/FullBlog';
 
 function App() {
   const [hidden, setHidden] = useState(false);
   const [single, setSingle] = useState(false);
   const [singleShow, setSingleShow] = useState('');
-  const [singleBlogID, setSingleBlogID] = useState(0);
+  const [ setSingleBlogID] = useState(0);
 
 
   const hideHeader = () => {

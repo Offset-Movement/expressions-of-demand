@@ -1,6 +1,6 @@
 import React from 'react';
-import { ReactComponent as Github } from '../../images/github.svg';
-import { ReactComponent as ExternalLink } from '../../images/external-link.svg';
+// import { ReactComponent as Github } from '../../images/github.svg';
+// import { ReactComponent as ExternalLink } from '../../images/external-link.svg';
 
 function ThisSite() {
     return (
