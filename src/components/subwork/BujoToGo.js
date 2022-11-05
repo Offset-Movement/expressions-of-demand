@@ -1,7 +1,7 @@
 import React from "react";
 import { ReactComponent as Chrome } from "../../images/chrome.svg";
 import { ReactComponent as Github } from "../../images/github.svg";
-import Bujogif from "../../images/BujoToGo.gif";
+// import Bujogif from "../../images/BujoToGo.gif";
 import headshot from "../../images/clarity-by-equality.png";
 
 function BujoToGo() {
