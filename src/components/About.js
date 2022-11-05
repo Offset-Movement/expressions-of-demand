@@ -15,19 +15,21 @@ function About() {
         Definition:
       </h2>
       <div className="subAbout">
-     
-        <p className="about_text" style={{textAlign:"start"}} >
-          In its broadest sense, an expression of demand, is an equaliser
-          phenomenon for capacity planning that enables a future-oriented
-          exposition of an arbitrary request, optionally with an on-air* time
-          set, and is opinionated, yet not necessarily a definitive one and can be
-          revoked any point in time.**
+        <p className="about_text" style={{ textAlign: "start" }}>
+          An Expression of Demand, in its broadest sense, is an equaliser method
+          for potentials and capacity making via adding constants and observables to any system with hight dependency to predictions.
+
           <br></br><br></br>
-          * demand, on-air: eg. due date,
-          duration of validity .. 
+           Through enabling future-oriented
+          exposition of an arbitrary requests, optionally with an on-air* time
+          set, and is opinionated, yet not necessarily a definitive one and can
+          be revoked any point in time.**
+          <br></br><br></br>
+          -------
           <br></br>
-          * * revokable: semi-promise, not binding yet can impact
-          reputation
+          <br></br><strong>* demand, on-air time</strong>: duration of validity of demand to stand, a time distance aka. time-stand.
+          <br></br><strong>* * revokable:</strong> demands are much like semi-promises, not binding however can impact
+          reputation in time.
         </p>
         {/* <div className="container_skills-icon">
           <JSLogo className="skills-icon" focusable="false" />
