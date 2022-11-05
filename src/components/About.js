@@ -20,7 +20,7 @@ function About() {
           In its broadest sense, an expression of demand, is an equaliser
           phenomenon for capacity planning that enables a future-oriented
           exposition of an arbitrary request, optionally with an on-air* time
-          set, and is opinionated, yet not necessarily a definitive one and be
+          set, and is opinionated, yet not necessarily a definitive one and can be
           revoked any point in time.**
           <br></br><br></br>
           * demand, on-air: eg. due date,
