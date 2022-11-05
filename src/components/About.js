@@ -26,21 +26,23 @@ function About() {
           fields, that are (so far) highly dependent on predictions.
           <br></br>
           <br></br>
-          Optimally designed to be achieved through enabling future-oriented
-          exposition of an arbitrary request; optionally with a duration of
-          validity set*, as well being highly opinionated, yet not necessarily a
-          definitive one and can be revoked at any point in time.**
+          Imagined to be utilised through enabling a declarative,
+          future-oriented exposition of a request; being opinionated and
+          effective on setting the terms of "consumption", yet not necessarily a
+          definitive one and can be revoked at any point in time*, (optionally)
+          expressed along with a duration of validity** attached to it.
           <br></br>
           <br></br>
           -------
           <br></br>
           <br></br>
-          <strong>* duration of validity:</strong>a time distance between aka.
-          time-stand.
-          <br></br>
-          <br></br>
-          <strong>** revokable:</strong> demands are much like semi-promises,
+          <strong>* revokable:</strong> demands are much like semi-promises,
           not binding however, can impact demanders' reputation in time.
+          <br></br>
+          <br></br>
+          <strong>** duration of validity:</strong>a time distance between time
+          of demand, to a a point in future, aka. time-stand | demand on-air
+          period.
           <br></br>
           <br></br>
           -------
