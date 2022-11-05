@@ -20,24 +20,25 @@ function About() {
       </h2>
       <div className="subAbout">
         <p className="about_text" style={{ textAlign: "start" }}>
-          An Expression of Demand, in its broadest sense, is an equaliser method
-          for potentials and capacity making via adding constants and
-          observables to the fields that are (made) highly dependent to
-          predictions.
+          <strong>An Expression of Demand,</strong> is a novel approach; a
+          clarity maker method for demand forecasting and capacity planning,
+          through progressively adding constants and future-observables to the
+          fields, that are (so far) highly dependent on predictions.
           <br></br>
           <br></br>
           Optimally designed to be achieved through enabling future-oriented
-          exposition of an arbitrary request, optionally with an on-air* time
-          set, and as well highly opinionated, yet not necessarily a definitive
-          one and can be revoked any point in time.**
+          exposition of an arbitrary request; optionally with a duration of
+          validity set*, as well being highly opinionated, yet not necessarily a
+          definitive one and can be revoked at any point in time.**
           <br></br>
           <br></br>
           -------
           <br></br>
           <br></br>
-          <strong>* demand, on-air time</strong>: duration of validity of demand
-          to stand, a time distance aka. time-stand.
-          <br></br><br></br>
+          <strong>* duration of validity:</strong>a time distance between aka.
+          time-stand.
+          <br></br>
+          <br></br>
           <strong>** revokable:</strong> demands are much like semi-promises,
           not binding however, can impact demanders' reputation in time.
           <br></br>
@@ -51,25 +52,32 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              <span style={{backgroundColor: "black", color: "white"}}>The Consequences Model,</span>{" "}
+              <span style={{ backgroundColor: "black", color: "white" }}>
+                The Consequences Model,
+              </span>{" "}
             </a>{" "}
             shared by the Danish organisation theorists Kristian Kreiner and
-            Soren Christensen, "encouraging us to be courageous, and make decisions
-            based on minimal information.", from The Decision Book.
+            Soren Christensen, "encouraging us to be courageous, and make
+            decisions based on minimal information.", from The Decision Book.
             <br></br> <br></br>
             {""}
             <a
               href="https://www.teachertoolkit.co.uk/wp-content/uploads/2019/05/Screenshot-2019-05-26-at-18.59.26.png"
               target="_blank"
               rel="noreferrer"
-            > {">> "}model's visual is here.{" <<"}</a>
-<br></br>
-<a
+            >
+              {" "}
+              {">> "}model's visual is here.{" <<"}
+            </a>
+            <br></br>
+            <a
               href="https://soundcloud.com/atyilmaz/the-consequences-model"
               target="_blank"
               rel="noreferrer"
-            > {">> "}reading from book, here{" <<"}</a>
-            
+            >
+              {" "}
+              {">> "}reading from book, here{" <<"}
+            </a>
           </i>
         </p>
         {/* <div className="container_skills-icon">
