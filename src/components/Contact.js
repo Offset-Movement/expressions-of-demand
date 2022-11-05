@@ -1,36 +1,42 @@
-import React, { useState } from 'react';
-import { ReactComponent as ExternalLink } from '../images/external-link.svg';
+// import React, { useState } from 'react';
+// import { ReactComponent as ExternalLink } from '../images/external-link.svg';
+import Peacemaker from '../images/peacemaker.png';
 
 function Contact() {
-    const [message, setMessage] = useState({});
+    // const [message, setMessage] = useState({});
 
-    const encode = (data) => {
-        return Object.keys(data)
-        .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-        .join("&")
-    }
+    // const encode = (data) => {
+    //     return Object.keys(data)
+    //     .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    //     .join("&")
+    // }
 
-    const handleChange = e => {
-        setMessage({
-            ...message,
-            [e.target.name]: e.target.value
-        })
-    }
+    // const handleChange = e => {
+    //     setMessage({
+    //         ...message,
+    //         [e.target.name]: e.target.value
+    //     })
+    // }
 
-    const handleSubmit = e => {
-        fetch("/", {
-            method: "POST",
-            headers: { "Content-Type": "application/x-www-form-urlencoded" },
-            body: encode({ "form-name": "contact", ...message})
-        })
-        .then(() => alert("Success!"))
-        .catch(error => alert(error));
+    // const handleSubmit = e => {
+    //     fetch("/", {
+    //         method: "POST",
+    //         headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    //         body: encode({ "form-name": "contact", ...message})
+    //     })
+    //     .then(() => alert("Success!"))
+    //     .catch(error => alert(error));
 
-        e.preventDefault();
-    }
+    //     e.preventDefault();
+    // }
 
     return (
-        <h2 style={{color: "wheat", backgroundColor:"black"}}>future.made@offsetmovement.org</h2>
+        <>
+   <img className="peacemaker_sticker_image" src={Peacemaker} alt="A sticker for Peacemakers"/>
+<h2 style={{color: "wheat", backgroundColor:"black", fontSize:"18px"}}>future.made@offsetmovement.org</h2>
+
+        </>
+
         // <section aria-label="Contact links and form" className="container_contact">
         //     <h2 className="section_title">Contact</h2>
         //     <div className="subContact">

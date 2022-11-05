@@ -1,8 +1,8 @@
 import React from "react";
-import { ReactComponent as Chrome } from "../../images/chrome.svg";
-import { ReactComponent as Github } from "../../images/github.svg";
+// import { ReactComponent as Chrome } from "../../images/chrome.svg";
+// import { ReactComponent as Github } from "../../images/github.svg";
 // import Bujogif from "../../images/BujoToGo.gif";
-import headshot from "../../images/clarity-by-equality.png";
+import ClarityByEquality from "../../images/clarity-by-equality.png";
 
 function BujoToGo() {
   return (
@@ -11,7 +11,7 @@ function BujoToGo() {
       {/* <h4 className="subwork_title--secondary">Prosumer-Prosumer Era</h4> */}
       <img
         alt="capacity planning"
-        src={headshot}
+        src={ClarityByEquality}
         className="about_headshot"
       />
       {/* <img className="subwork_image" src={Bujogif} alt="BujoToGo walkthrough"/> */}

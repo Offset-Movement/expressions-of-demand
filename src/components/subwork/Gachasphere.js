@@ -11,14 +11,22 @@ function Gachasphere() {
           style={{
             backgroundColor: "black",
             color: "white",
-            padding: "4px",
+            padding: "6px",
             fontStyle: "italic",
           }}
         >
-          Politics and Diplomacy
+          Politics and Diplomacy <br></br><br></br>
+          <span
+          style={{
+            backgroundColor: "yellow",
+            color: "black",
+            padding: "2px",
+            fontStyle: "italic",
+          }}
+        >  Case: Proactive electorship and Peacemaking </span>
         </span>
       </h3>
-      <h4 className="subwork_title--secondary">
+      {/* <h4 className="subwork_title--secondary">
         <span
           style={{
             backgroundColor: "black",
@@ -27,13 +35,16 @@ function Gachasphere() {
             fontStyle: "italic",
           }}
         >
-          Proactive electorship & peacemaking
+         
         </span>
-      </h4>
+      </h4> */}
       <p className="subwork_text" style={{ textAlign: "start" }}>
         A voter/elector demands a change, without specifying or appealing to a
-        specific political party, <br></br><br></br> They expose and clarify their intentions in
-        single or multi levels, meaning one election or two ahead of time, for any specific topic that they wish to see changed within their lifetimes. 
+        specific political party. At the initiation of the demand flow, voter give equal chance to all, as generous as possible. 
+        <br></br>        <br></br>
+
+        Because what they wanted in the first place, is progress in an arbitrary cause/policy, or new ones to be given capacity. <br></br><br></br> They expose and clarify their intentions in
+        single or multi levels, meaning one or two elections ahead of time, for any specific topic that they wish to see improved. <br></br>  <br></br>This is, hereby, a reflection of an opinionated perspective and worldview.
         <br></br><br></br>
         As an example, for global trust and peacemaking is
         illustrated below:
@@ -53,7 +64,8 @@ function Gachasphere() {
         <br></br><br></br>
         <span style={{backgroundColor: "black", color: "white", }}>II:</span> {" "} 
        If one of those parties elected in the next election, and kept their word on making observable effort and impact on that cause, then   <span style={{backgroundColor: "pink", color: "black", padding:"2px", fontStyle:"italic"}}> I will <u>definitely vote for them</u> in the following election(s). </span>
-      <h2>.. to be continued with advertising</h2>
+       <br></br><br></br>
+      <h2>.. to be continued with <br></br> prediction-free advertising and the new, new media </h2>
       </p>
 
     </div>

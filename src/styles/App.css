@@ -43,7 +43,8 @@ header {
   margin: auto;
   padding: 15px 10px 15px 10px;
   color: #292929;
-  background: rgba(255, 255, 255, 0.1);
+  background: white;
+  /* background: rgba(255, 255, 255, 0.1); */
   display: flex;
   place-items: center;
 }
@@ -113,6 +114,13 @@ nav {
 .subwork_image {
   max-height: 200px;
   max-width: 200px;
+  margin: 10px;
+  grid-area: pic;
+}
+
+.peacemaker_sticker_image {
+  max-height: 300px;
+  max-width: 90%;
   margin: 10px;
   grid-area: pic;
 }
@@ -668,8 +676,8 @@ button:hover, button:focus, button:active {
 }
 
 .header_button:hover, .header_button:focus {
-  background-color: #292929;
-  color: #F9F8F8;
+  background-color: yellow;
+  color: black;
 }
 
 .header_button:hover .button_arrow, .header_button:focus .button_arrow {
