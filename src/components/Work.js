@@ -9,9 +9,9 @@ function Work() {
     return (
         <section aria-label="Portfolio project descriptions" className="container_work" name="work">
             <h2 className="section_title">Fields of Implementation</h2>
-            <ThisSite />
             <BujoToGo />
             <Gachasphere />
+            <ThisSite />
             {/* <Knitworthy /> */}
             {/* <OWS /> */}
         </section>

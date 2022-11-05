@@ -16,7 +16,7 @@ function About() {
       </h2>
       <div className="subAbout">
      
-        <p className="about_text" >
+        <p className="about_text" style={{textAlign:"start"}} >
           In its broadest sense, an expression of demand, is an equaliser
           phenomenon for capacity planning that enables a future-oriented
           exposition of an arbitrary request, optionally with an on-air* time
