@@ -681,7 +681,7 @@ button:hover, button:focus, button:active {
 }
 
 .header_button:hover .button_arrow, .header_button:focus .button_arrow {
-  stroke: #F9F8F8;
+  stroke: #db2929;
   animation-name: spin;
   animation-duration: .5s;
   animation-fill-mode: forwards;

@@ -18,7 +18,7 @@ function Header(props) {
         <h2 className="header_title">
           {/* Please welcome,  the age of <br></br>Prosumer {"<=>"} Prosumer<br></br>{" "} */}
           aka. <br></br>
-          <strong><i> Clarity through equality</i>
+          <strong><i> Clarity by equality</i>
             </strong> 
             <br></br>            <br></br>
 
