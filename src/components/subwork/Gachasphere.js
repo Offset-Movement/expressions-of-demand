@@ -61,8 +61,7 @@ function Gachasphere() {
         <br></br> <br></br>
         This is, hereby, an expressed expectation, for the reflections to their
         opinionated perspective and worldview, and hence, an individual, change
-        request/proposal of a kind, with potential civic sanctions (at level II
-        and beyond).
+        request/proposal of a kind,<strong> with potential civic sanctions at level II</strong>
         <br></br>
         <br></br>
         As an example, an individual’s expectation and demand for global trust
@@ -106,9 +105,22 @@ function Gachasphere() {
           }}
         >
           {" "}
-          I will <u> (most) definitely vote for them (again)</u> in the
-          following election(s).{" "}
-        </span>
+          I will <u> (most) definitely vote for them (again).</u></span>
+
+        <span
+          style={{
+            backgroundColor: "yellow",
+            color: "black",
+            padding: "2px",
+            fontStyle: "italic",
+          }}
+        > {" "}
+          Otherwise, I
+          will (most probably) not going to vote for them (again) in the following
+          election(s), until my trust is re-established by them via their 
+          efforts on supporting this cause better, 
+        </span> either as a party re-elected without my vote, or as a party of opposition, before a new election period.
+
         <br></br>
         <br></br>
         <span style={{ backgroundColor: "black", color: "white" }}>
