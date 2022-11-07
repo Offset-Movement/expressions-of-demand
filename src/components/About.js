@@ -16,7 +16,7 @@ function About() {
       style={{ backgroundColor: "orange" }}
     >
       <h2 id="about" className="section_title" style={{ color: "black" }}>
-        A Definition:
+        A Description:
       </h2>
       <div className="subAbout">
         <p className="about_text" style={{ textAlign: "start" }}>

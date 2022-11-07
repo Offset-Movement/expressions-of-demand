@@ -119,7 +119,7 @@ function Gachasphere() {
           will (most probably) not going to vote for them (again) in the following
           election(s), until my trust is re-established by them via their 
           efforts on supporting this cause better, 
-        </span> either as a party re-elected without my vote, or as a party of opposition, before a new election period.
+        </span> either as a party re-elected without my vote, or as a party of opposition, before an upcoming electoral period.
 
         <br></br>
         <br></br>
