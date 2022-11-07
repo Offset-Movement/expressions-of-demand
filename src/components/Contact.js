@@ -32,9 +32,9 @@ function Contact() {
 
     return (
         <>
+<h2 style={{marginBottom:"42px", color: "wheat", backgroundColor:"black", fontSize:"18px"}}>future.made@offsetmovement.org</h2>
+      
    <img className="peacemaker_sticker_image" src={Peacemaker} alt="A sticker for Peacemakers"/>
-<h2 style={{color: "wheat", backgroundColor:"black", fontSize:"18px"}}>future.made@offsetmovement.org</h2>
-
         </>
 
         // <section aria-label="Contact links and form" className="container_contact">
