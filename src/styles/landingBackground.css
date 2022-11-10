@@ -7,8 +7,11 @@
 }
 
 .bg {
-    animation: slide 3s ease-in-out infinite alternate;
-    background-image: linear-gradient(-60deg, #172221 50%, #e77bbf 50%);
+    background-image: url('../../public/logo512.png');
+    /* background-repeat: no-repeat; */
+  
+    animation:  ease-in-out infinite alternate;
+    /* background-image: linear-gradient(-60deg, #172221 50%, #e77bbf 50%); */
     bottom: 0;
     left: -50%;
     opacity: .5;
@@ -24,11 +27,12 @@
 }
 
 .bg3 {
-    animation-duration: 5s;
+    animation-duration: 4s;
 }
 
 @media (prefers-reduced-motion) {
   .bg, .bg2, .bg3 {
     animation-name: dissolve;
+    background-repeat: no-repeat;
   }
 }

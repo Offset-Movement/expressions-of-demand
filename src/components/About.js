@@ -11,7 +11,7 @@ import React from "react";
 function About() {
   return (
     <section
-      aria-labelledby="asd"
+      aria-labelledby="about"
       className="container_about"
       style={{ backgroundColor: "black" }}
     >
