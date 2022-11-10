@@ -11,11 +11,11 @@ import React from "react";
 function About() {
   return (
     <section
-      aria-labelledby="about"
+      aria-labelledby="asd"
       className="container_about"
-      style={{ backgroundColor: "orange" }}
+      style={{ backgroundColor: "black" }}
     >
-      <h2 id="about" className="section_title" style={{ color: "black" }}>
+      <h2 id="about" className="section_title" style={{ color: "white" }}>
         A Description:
       </h2>
       <div className="subAbout">
