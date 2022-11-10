@@ -32,7 +32,7 @@ function Contact() {
 
     return (
         <div>
-<h2 style={{marginBottom:"42px", color: "wheat", backgroundColor:"black", fontSize:"18px"}}>future.made@offsetmovement.org</h2>
+<h2 style={{marginBottom:"42px", color: "wheat", backgroundColor:"black", fontSize:"22px"}}>future.made <br></br> @ <br></br>offsetmovement.org</h2>
       
    <img className="peacemaker_sticker_image" src={Peacemaker} alt="A sticker for Peacemakers"/>
         </div>
