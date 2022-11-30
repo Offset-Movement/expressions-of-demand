@@ -71,7 +71,7 @@ function Gachasphere() {
         potential civic sanctions </span>
           
           
-          made observable at level II.
+          made observable.<i>(see level II)</i>
         <br></br>
         <br></br>
         Illustrated below, is an example, an individual’s demand for global trust
@@ -125,6 +125,8 @@ function Gachasphere() {
             fontStyle: "italic",
           }}
         > {" "}
+
+        <br></br><br></br>
           Otherwise, I
           will (most probably) not going to vote for them (again) in the following
           election(s), until my trust is re-established by them via their 
@@ -136,9 +138,9 @@ function Gachasphere() {
         <span style={{ backgroundColor: "black", color: "white" }}>
           III:
         </span>{" "}
-        In the meantime, as I am a potential candidate in a future election, and
-        have the equal right to be an electoral nominee to become an executive
-        person with such signature power; I will proactively co-sign and be part of a sealing of a World Peace treaty with other
+        In the meantime, as I am a potential candidate for a future election, and
+        have potentially an equal right to be an electoral nominee to become an executive
+        person with such signature power; <br></br><br></br> I will proactively co-sign and be part of a sealing of a World Peace treaty with other
         individuals and states in the world, as they exposed/expressed their
         intentions in space-time.
        
