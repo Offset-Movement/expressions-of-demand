@@ -7,42 +7,11 @@ function Gachasphere() {
   return (
     <div id="gachasphere" className="subWork">
     
-      <h3 className="subwork_title--primary" style={{ paddingTop: "32px" }}>
-        <span
-          style={{
-            backgroundColor: "black",
-            color: "white",
-            padding: "6px",
-            fontStyle: "italic",
-            fontSize: "24px",
-            paddingRight: "2px",
-          }}
-        >
-          Politics and Diplomacy <br></br>
-          <br></br> Case: Proactive electorship for Peacemaking{" "}
-        </span>
-      </h3>
-      {/* <h4 className="subwork_title--secondary">
-        <span
-          style={{
-            backgroundColor: "black",
-            color: "white",
-            padding: "2px",
-            fontStyle: "italic",
-          }:
-        >
-         
-        </span>
-      </h4> */}
-
-      <img
-        src={ProactiveElectors}
-        className="subwork_image"
-        alt="proactive electors"
-      ></img>
       <p className="subwork_text" style={{ textAlign: "start" }}>
         Voters/electors demand a change, without appealing to, or specifying a
-        particular political party. At the initiation of the demand flow, voters
+        particular political party. 
+        <br></br><br></br>
+        At the initiation of the demand flow, voters
         give equal chances to all, as generously as possible.
         <br></br> <br></br>
         {/* <i>
@@ -53,7 +22,7 @@ function Gachasphere() {
         </i>
         <br></br> <br></br> */}
         In essence, they expose and clarify their intentions in single or
-        multi-levels *, meaning one or two elections ahead of time, for any
+        multi-levels, meaning one or two elections ahead of time, for any
         specific topic that they wish to see developments in a positive
         direction.
         <br></br> <br></br>

@@ -205,7 +205,7 @@ nav {
 }
 
 .subwork_text {
-  grid-area: text;
+  /* grid-area: text; */
 }
 
 .subwork_links {
@@ -887,7 +887,7 @@ a:hover, a:focus, a:active {
     "pic text"
     "icons text";
     grid-template-rows: 1fr;
-    grid-template-columns: .25fr 1fr;
+    /* grid-template-columns: .25fr 1fr; */
     margin: 40px;
   }
 
