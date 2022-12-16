@@ -2,10 +2,11 @@ import React from "react";
 // import Gachagif from '../../images/gachasphereMobile.gif';
 // import { ReactComponent as Chrome } from "../../images/chrome.svg";
 // import { ReactComponent as Github } from "../../images/github.svg";
-import ProactiveElectors from "../../images/eod-top-img.png"
+import ProactiveElectors from "../../images/eod-top-img.png";
 function Gachasphere() {
   return (
     <div id="gachasphere" className="subWork">
+    
       <h3 className="subwork_title--primary" style={{ paddingTop: "32px" }}>
         <span
           style={{
@@ -13,16 +14,12 @@ function Gachasphere() {
             color: "white",
             padding: "6px",
             fontStyle: "italic",
-            fontSize:"24px",
-            paddingRight: "2px"
-            
+            fontSize: "24px",
+            paddingRight: "2px",
           }}
         >
           Politics and Diplomacy <br></br>
-          <br></br>
-         
-            {" "}
-            Case: Proactive electorship for Peacemaking{" "}
+          <br></br> Case: Proactive electorship for Peacemaking{" "}
         </span>
       </h3>
       {/* <h4 className="subwork_title--secondary">
@@ -38,7 +35,11 @@ function Gachasphere() {
         </span>
       </h4> */}
 
-      <img src={ProactiveElectors} className="subwork_image" alt="proactive electors"></img>
+      <img
+        src={ProactiveElectors}
+        className="subwork_image"
+        alt="proactive electors"
+      ></img>
       <p className="subwork_text" style={{ textAlign: "start" }}>
         Voters/electors demand a change, without appealing to, or specifying a
         particular political party. At the initiation of the demand flow, voters
@@ -58,8 +59,7 @@ function Gachasphere() {
         <br></br> <br></br>
         This is, hereby, an expressed expectation for reflections to their
         opinionated perspective and worldview; an individual change
-        request/proposal of a kind, with 
-         {" "}
+        request/proposal of a kind, with{" "}
         <span
           style={{
             backgroundColor: "yellow",
@@ -67,15 +67,14 @@ function Gachasphere() {
             // padding: "2px",
             fontStyle: "italic",
           }}
-        > 
-        potential civic sanctions </span>
-          
-          
-          made observable.<i>(see level II)</i>
+        >
+          potential civic sanctions{" "}
+        </span>
+        made observable.<i>(see level II)</i>
         <br></br>
         <br></br>
-        Illustrated below, is an example, an individual’s demand for global trust
-        and peacemaking:
+        Illustrated below, is an example, an individual’s demand for global
+        trust and peacemaking:
         {/* In the first exposition, inclusion of change,
         thereby a token of intention is demanded, and in the second level,
         exposition of a future time decision is made, this time, binding for
@@ -98,8 +97,8 @@ function Gachasphere() {
           }}
         >
           {" "}
-          I will <u> (most) probably vote for one of those parties </u> in the first
-          election ahead.
+          I will <u> (most) probably vote for one of those parties </u> in the
+          first election ahead.
         </span>
         <br></br>
         <br></br>
@@ -115,8 +114,8 @@ function Gachasphere() {
           }}
         >
           {" "}
-          I will <u> (most) definitely vote for them (again).</u></span>
-
+          I will <u> (most) definitely vote for them (again).</u>
+        </span>
         <span
           style={{
             backgroundColor: "yellow",
@@ -124,26 +123,27 @@ function Gachasphere() {
             padding: "2px",
             fontStyle: "italic",
           }}
-        > {" "}
-
-        <br></br><br></br>
-          Otherwise, I
-          will (most probably) not going to vote for them (again) in the following
-          election(s), until my trust is re-established by them via their 
-          efforts on supporting this cause better;
-        </span> either as a party re-elected without my vote, or as a party of opposition, before an upcoming electoral period.
-
+        >
+          {" "}
+          <br></br>
+          <br></br>
+          Otherwise, I will (most probably) not going to vote for them (again)
+          in the following election(s), until my trust is re-established by them
+          via their efforts on supporting this cause better;
+        </span>{" "}
+        either as a party re-elected without my vote, or as a party of
+        opposition, before an upcoming electoral period.
         <br></br>
         <br></br>
         <span style={{ backgroundColor: "black", color: "white" }}>
           III:
         </span>{" "}
-        In the meantime, as I am a potential candidate for a future election, and
-        have potentially an equal right to be an electoral nominee to become an executive
-        person with such signature power; <br></br><br></br> I will proactively co-sign and be part of a sealing of a World Peace treaty with other
-        individuals and states in the world, as they exposed/expressed their
-        intentions in space-time.
-       
+        In the meantime, as I am a potential candidate for a future election,
+        and have potentially an equal right to be an electoral nominee to become
+        an executive person with such signature power; <br></br>
+        <br></br> I will proactively co-sign and be part of a sealing of a World
+        Peace treaty with other individuals and states in the world, as they
+        exposed/expressed their intentions in space-time.
       </p>
     </div>
   );
