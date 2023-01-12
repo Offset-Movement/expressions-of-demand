@@ -11,7 +11,7 @@ function Gachasphere() {
         Voters/electors demand a change, without appealing to, or specifying a
         particular political party. 
         <br></br><br></br>
-        At the initiation of the demand flow, voters
+        At the initiation of a demand flow, voters
         give equal chances to all, as generously as possible.
         <br></br> <br></br>
         {/* <i>

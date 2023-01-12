@@ -8,7 +8,7 @@ import Gachasphere from './subwork/Gachasphere';
 function Work() {
     return (
         <section aria-label="Portfolio project descriptions" className="container_work" name="work">
-            <h2 className="section_title">A field of implementation: Politics & Diplomacy <br></br><br></br> Case: "Proactive electorship for <br></br> global Peace and trustmaking"</h2>
+            <h2 className="section_title">A field of implementation: Politics & Diplomacy <br></br><br></br> Case: "Proactive electorship for <br></br> global peace and trustmaking"</h2>
           
             <iframe
         width="320"

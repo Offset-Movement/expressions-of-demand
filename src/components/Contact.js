@@ -32,12 +32,8 @@ function Contact() {
 
     return (
         <div>
-<h2 style={{marginBottom:"42px", color: "wheat", backgroundColor:"black", fontSize:"22px"}}>future.made <br></br> @ <br></br>offsetmovement.org</h2>
+<h2 style={{marginBottom:"42px", color: "wheat", backgroundColor:"black", fontSize:"22px"}}>someone@aworldpeace.org</h2>
       
-      <a href='https://www.aworldpeace.org' target={"_blank"} rel="noreferrer">
-
-   <img className="peacemaker_sticker_image" src={Peacemaker} alt="A sticker for Peacemakers"/>
-      </a>
 
         </div>
 
